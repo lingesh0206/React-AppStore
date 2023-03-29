@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.item {
+  list-style-type: none;
+  margin-right: 15px;
+  background-color: transparent !important;
+}
+
+.tab-btn {
+  color: #7b8794;
+  border: none;
+  padding: 0px;
+  cursor: pointer;
+  background-color: transparent !important;
+}
+.active-tab {
+  color: #2563eb;
+}
